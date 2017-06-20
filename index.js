@@ -20,5 +20,5 @@ app.get('/server/hostname', function (req, res) {
 })
 
 app.listen(8080, function () {
-    console.log('Simple Node.js REST API listening on port 8080!')
+    console.log('Simple Node.js REST API listening on port 8080 (v1.0.0).')
 })
